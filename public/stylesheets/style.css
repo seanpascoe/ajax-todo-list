@@ -1,0 +1,9 @@
+#task_list i {
+  display: none;
+  cursor: pointer;
+}
+
+#task_list li {
+  padding-top: 15px;
+  display: table;
+}
